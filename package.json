@@ -1,0 +1,36 @@
+{
+  "name": "crm-mean",
+  "version": "1.0.0",
+  "description": "Fullstack Customer relationship management system",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "server": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herzfeld/crm-mean.git"
+  },
+  "keywords": [
+    "mongodb",
+    "express",
+    "angular",
+    "nodejs"
+  ],
+  "author": "herzfeld",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/herzfeld/crm-mean/issues"
+  },
+  "homepage": "https://github.com/herzfeld/crm-mean#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.8",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
