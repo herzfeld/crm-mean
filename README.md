@@ -1,1 +1,2 @@
-# crm-mean
+# CRM MEAN
+Fullstack Customer relationship management system
